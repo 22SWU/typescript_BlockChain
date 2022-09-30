@@ -1,0 +1,22 @@
+{
+  "name": "typescript_BlockChain",
+  "version": "1.0.0",
+  "description": "타입스크립트로 블록체인 만들기",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22SWU/typescript_BlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22SWU/typescript_BlockChain/issues"
+  },
+  "homepage": "https://github.com/22SWU/typescript_BlockChain#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
